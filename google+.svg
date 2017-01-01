@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0" y="0" viewBox="0 0 250 250" xml:space="preserve">
+  <style type="text/css">
+    
+	.st0{enable-background:new    ;}
+	.st1{fill:#1D5675;}
+	.st2{fill:#1B5472;}
+	.st3{fill:#3481AC;}
+	.st4{clip-path:url(#XMLID_5_);enable-background:new    ;}
+	.st5{fill:#1D5776;}
+	.st6{fill:#1C5473;}
+	.st7{fill:#1A5270;}
+	.st8{clip-path:url(#XMLID_6_);enable-background:new    ;}
+	.st9{clip-path:url(#XMLID_7_);enable-background:new    ;}
+
+  </style>
+  <g class="st0">
+    <polygon class="st1" points="199.6 113.6 192.1 113.6 207.9 113.6 215.4 113.6 "/>
+    <rect x="176.4" y="136.4" class="st2" width="7.5" height="22.9"/>
+    <rect x="176.3" y="90.7" class="st2" width="7.5" height="22.9"/>
+    <polygon class="st1" points="183.8 90.7 176.3 90.7 192.1 90.7 199.6 90.7 "/>
+    <polygon class="st1" points="168.1 113.6 160.6 113.6 176.3 113.6 183.8 113.6 "/>
+    <rect x="160.6" y="113.6" class="st2" width="7.5" height="22.9"/>
+    <polygon class="st3" points="199.6 113.6 215.4 113.6 215.4 136.4 199.6 136.4 199.6 159.3 183.9 159.3 183.9 136.4 168.1 136.4 168.1 113.6 183.8 113.6 183.8 90.7 199.6 90.7 "/>
+  </g>
+  <g class="st0">
+    <g class="st0">
+      <defs>
+        <path class="st0" d="M97.3 175.5l-7.5 0c21.8 0 30-22.7 31.3-34.5l7.5 0C127.3 152.8 119.1 175.5 97.3 175.5z"/>
+      </defs>
+      <clipPath>
+        <use xlink:href="#XMLID_102_"/>
+      </clipPath>
+      <g class="st4">
+        <path class="st5" d="M97.3 175.5h-7.5c10.4 0 17.7-5.2 22.6-11.8h7.5C115 170.4 107.7 175.5 97.3 175.5M119.9 163.7h-7.5c3-4 5.1-8.5 6.5-12.9h7.5C125 155.1 122.9 159.7 119.9 163.7M126.4 150.8h-7.5c1.2-3.6 1.9-7 2.2-9.8h7.5C128.2 143.8 127.5 147.2 126.4 150.8"/>
+      </g>
+    </g>
+    <polygon class="st1" points="97.2 113.6 89.7 113.6 141.8 113.6 149.3 113.6 "/>
+    <rect x="89.7" y="113.6" class="st2" width="7.5" height="27.4"/>
+    <g class="st0">
+      <defs>
+        <path class="st0" d="M119.2 86.8l-7.5 0c-4.1-5.7-11.3-12.4-22-12.4l7.5 0C108 74.5 115.1 81.1 119.2 86.8z"/>
+      </defs>
+      <clipPath>
+        <use xlink:href="#XMLID_92_"/>
+      </clipPath>
+      <g class="st8">
+        <path class="st7" d="M119.2 86.8h-7.5c-4.1-5.7-11.3-12.4-22-12.4h7.5C108 74.5 115.1 81.1 119.2 86.8"/>
+      </g>
+    </g>
+    <g class="st0">
+      <defs>
+        <path class="st0" d="M97.2 205h-7.5c-30.5 0-55.1-35.7-55.1-80 0-44.3 24.6-80 55.1-80l7.5 0c-30.5 0-55.1 35.7-55.1 80C42.1 169.3 66.8 205 97.2 205z"/>
+      </defs>
+      <clipPath>
+        <use xlink:href="#XMLID_88_"/>
+      </clipPath>
+      <g class="st9">
+        <path class="st7" d="M97.2 205h-7.5c-30.5 0-55.1-35.7-55.1-80 0-12.3 1.9-23.9 5.3-34.3h7.5c-3.4 10.4-5.3 22-5.3 34.3C42.1 169.3 66.8 205 97.2 205M47.5 90.7H40c3-9.2 7.2-17.4 12.2-24.2h7.5C54.6 73.3 50.4 81.5 47.5 90.7M59.7 66.5h-7.5C62 53.1 75.2 45 89.8 45h7.5C82.7 45 69.5 53.1 59.7 66.5"/>
+      </g>
+    </g>
+    <path class="st3" d="M97.2 113.6h52c0.5 4 0.9 8 0.9 13.3 0 45.7-21.1 78.2-52.9 78.2 -30.5 0-55.1-35.7-55.1-80 0-44.3 24.6-80 55.1-80 14.9 0 27.3 7.9 36.9 20.9l-15 20.9c-4.1-5.7-11.3-12.4-22-12.4 -18.8 0-34.1 22.6-34.1 50.5 0 27.9 15.4 50.5 34.2 50.5 21.8 0 30-22.7 31.3-34.5H97.2V113.6z"/>
+  </g>
+</svg>
