@@ -1,5 +1,5 @@
 
-# Licence
+# License
 
 [Creative Commons](https://creativecommons.org/licenses/by/3.0)
 
