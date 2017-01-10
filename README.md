@@ -21,7 +21,7 @@ To customize icons, use a vector image editor program and change the fill color.
 
 ![screen](https://cloud.githubusercontent.com/assets/24851606/21637732/482ad80c-d28e-11e6-8542-8e20a164e0f7.png)
 
-For more precise control over the 3D highlights color etc, open image in any text editor and change fill color hex code, use this it’s free and open source brackets.io
+For more precise control over the 3D highlights color etc, open image in any text editor and change fill color hex code, use this it’s free and open source [BRACKETS](http://brackets.io/)
 
 ![text](https://cloud.githubusercontent.com/assets/24851606/21637820/bcf3f484-d28e-11e6-9162-13db50f42dbc.png)
 
