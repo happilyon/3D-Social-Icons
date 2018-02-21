@@ -31,3 +31,4 @@ For more precise control over the 3D highlights color etc, open image in any tex
 
 ![text](https://cloud.githubusercontent.com/assets/24851606/21637820/bcf3f484-d28e-11e6-9162-13db50f42dbc.png)
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1FM02a3viT4/0.jpg)](http://www.youtube.com/watch?v=1FM02a3viT4 "Video Title")
